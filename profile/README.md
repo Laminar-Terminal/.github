@@ -1,17 +1,17 @@
 # EST 2024
 
-We are Laminar-terminal.
+## We are Laminar-terminal.
 
 Our aim is to provide a new Terminal with custom Addon support, Themes and a way to keep all your dotfiles synced and safe inside a github repo!
 
-Why?
+## Why?
 
 Well you see most new terminals offer their features only behind a paywall, nobody likes that.
 Thats why we decided to write a new fester Terminal app in the Rust Programming language where we provide all features for free.
 
 # Sponsoring?
 
-Currently there is no direct way of sponsoring. 
+**Currently there is no direct way of sponsoring.** 
 
 If you want to help out the project please open a pull request and we will try to merge it, if it fits our coding style.
 
