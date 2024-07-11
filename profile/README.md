@@ -55,4 +55,4 @@ fn my_function() {
 
 This project is highly experimental, we are not responsible for any kind of data loss and / or system errors.
 
-For Support please open up a new Issue or if you have any questions to join this project please write me an E-Mail: [info@itsnik.de](mailto:info@itsnik.de).
+For Support please open up a new Issue or if you have any questions to join this project please write me an E-Mail: [laminar@itsnik.de](mailto:laminar@itsnik.de).
