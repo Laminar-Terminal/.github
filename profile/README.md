@@ -23,6 +23,7 @@ Please follow this Coding Style Guideline:
 
 - Use tabs instead of spaces for indenting
 - Comment on top of your function what it is doing, how it is doing it and what the inputs and outputs are.
+- Use the "DRY" concept; DON'T REPEAT YOURSELF!
 - The comments should be in an easy to understand englisch language.
 - Also put your github username inside the comment on top of your function, this provides an easy way of crediting you on our website. If you don't want credit lead it blank
 
