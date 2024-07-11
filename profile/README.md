@@ -26,8 +26,7 @@ Please follow this Coding Style Guideline:
 - The comments should be in an easy to understand englisch language.
 - Also put your github username inside the comment on top of your function, this provides an easy way of crediting you on our website. If you don't want credit lead it blank
 
-- Example comment block
-
+Example code block:
 ```rust
 /*
 This function does "X" by...
