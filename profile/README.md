@@ -35,7 +35,7 @@ This function does "X" by...
   3. Calculating the sum of atoms in the universe
 
 ### BLOCK START
-# CREDITS - function: my_function #
+# function: my_function
 # GitHub: contributer 1
 # Github: contributer 2
 # ...
