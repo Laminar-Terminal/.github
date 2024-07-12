@@ -3,6 +3,7 @@
 ## We are Laminar-terminal.
 
 Our aim is to provide a new terminal with custom addon support, themes, and a way to keep all your dotfiles synced and safe inside a GitHub repository!
+And unlike other projects we are crosscompiling to linux and windows from the get go.
 
 ## Why?
 
@@ -43,7 +44,7 @@ This function does "X" by...
 fn my_function() {
   println!("Hello, world!");
 
-  my_another_function();
+  another_function();
 }
 
 ```
