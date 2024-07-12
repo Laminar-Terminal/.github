@@ -7,7 +7,7 @@ And unlike other projects we are crosscompiling to linux and windows from the ge
 
 ## Why?
 
-Most new terminals offer their features only behind a paywall, and nobody likes that. That's why we decided to write a new, faster terminal app in the Rust programming language, where we provide all features for free.
+Most new terminals offer their features only behind a paywall, and nobody likes that. That's why we decided to write a new terminal app in the Go programming language, where we provide all features for free.
 
 ## Sponsoring
 
@@ -26,7 +26,7 @@ Please follow this coding style guideline:
 - Also, put your GitHub username inside the comment on top of your function. This provides an easy way of crediting you on our website. If you don't want credit, leave it blank.
 
 Example code block:
-```rust
+```go
 /*
 This function does "X" by...
   1. Doing XYZ
@@ -41,10 +41,11 @@ This function does "X" by...
 ### BLOCK END
 */
 
-fn my_function() {
-  println!("Hello, world!");
+package main
+import ("fmt")
 
-  another_function();
+func main() {
+  fmt.Println("Hello World!")
 }
 
 ```
